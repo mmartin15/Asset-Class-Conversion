@@ -1,0 +1,46 @@
+Asset Class,Fund Name,Ticker,Year of Inception
+Total US Stock Market,Vanguard Total Stock Market Index Fund (Investor Shares),VTSMX,1992
+Total World Stock Market,Vanguard Total World Stock Index Fund (Investor Shares),VTWSX,2008
+US Large Cap,Vanguard 500 Index Fund,VFINX,1976
+US Large Cap Value,Vanguard Equity?Income Fund,VEIRX,1984
+US Large Cap Growth,Vanguard Growth Index Fund,VIGRX,1992
+US Mid Cap,Vanguard Mid?Cap Index Fund,VIMSX,1991
+US Mid Cap Value,Vanguard Mid?Cap Value Fund,VMVAX,1992
+US Mid Cap Growth,Vanguard Mid?Cap Growth Fund,VMGRX,1992
+US Small Cap,Vanguard Small?Cap Index Fund,NAESX,1990
+US Small Cap Value,Vanguard Small?Cap Value Fund,VSCVX,1992
+US Small Cap Growth,Vanguard Small?Cap Growth Fund,VSCGX,1992
+US Micro Cap,iShares Micro?Cap ETF,IWC,2007
+Total International Stock Market,Vanguard Total International Stock Index Fund (Investor Shares),VGTSX,1988
+International ex?US Developed Markets (EAFE),iShares MSCI EAFE ETF,EFA,2001
+International ex?US Small Cap,Vanguard International Small Cap Index Fund (Investor Shares),VFSVX,2000
+International ex?US Value,Vanguard International Value Fund,VTRIX,1989
+European Stocks,iShares MSCI Europe ETF,IEV,2000
+International ex?US Small Cap Value,iShares MSCI EAFE Small?Cap ETF,SCZ,2007
+Pacific Region Stocks,iShares MSCI Pacific ETF,EPP,2004
+Emerging Markets,Vanguard Emerging Markets Stock Index Fund (Investor Shares),VEMVX,1987
+Total Bond Market,Vanguard Total Bond Market Index Fund (Investor Shares),VBMFX,1986
+Short?Term Treasury Bonds,Vanguard Short?Term Treasury Fund,VFISX,1986
+Intermediate?Term Treasury Bonds,Vanguard Intermediate?Term Treasury Fund,VFITX,1986
+Long?Term Treasury Bonds,Vanguard Long?Term Treasury Fund,VUSTX,1986
+Total US Treasury Bond Market,iShares U.S. Treasury Bond ETF,GOVT,2012
+TIPS,iShares TIPS Bond ETF,TIP,2003
+Short Term Tax Exempt,Vanguard Short?Term Tax?Exempt Fund,VWSTX,1986
+Intermediate Term Tax Exempt,Vanguard Intermediate?Term Tax?Exempt Fund,VWITX,1986
+Long Term Tax Exempt,Vanguard Long?Term Tax?Exempt Fund,VWLTX,1986
+Short Term Investment Grade,Vanguard Short?Term Investment?Grade Fund,VFSTX,1986
+Corporate Bonds,iShares iBoxx  Investment Grade Corporate Bond ETF,LQD,2002
+Long Term Corporate Bonds,Vanguard Long?Term Corporate Bond ETF,VCLT,2007
+High Yield Corporate Bonds,iShares iBoxx  High Yield Corporate Bond ETF,HYG,2007
+Total International Bond,Vanguard Total International Bond Index Fund (Investor Shares),VTIBX,1996
+Total World Bonds,Vanguard Total World Bond Index Fund (Investor Shares),VTWBX,1998
+Real Estate (REITs),Vanguard Real Estate Index Fund,VGSIX,2001
+Gold,SPDR  Gold Shares,GLD,2004
+Precious Metals,Invesco DB Precious Metals Fund,DBP,2007
+Commodities,Invesco DB Commodity Index Tracking Fund,DBC,2007
+Short Term Corporate Bonds,iShares Short?Term Corporate Bond ETF,IGSB,2007
+Intermediate Term Corporate Bonds,iShares 1 5 Year Investment Grade Corporate Bond ETF,IGLB,2007
+Long Term Corporate Bonds,iShares 10+ Year Investment Grade Corporate Bond ETF,IGLT,2007
+Emerging Market Small Cap Value,iShares MSCI Emerging Markets Small?Cap ETF,EEMS,2012
+Developed Market Small Cap Value,iShares MSCI EAFE Small?Cap ETF (proxy for developed?market small cap value),SCZ,2007
+Inflation?Protected TIPS,iShares TIPS Bond ETF,TIP,2003
