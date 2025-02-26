@@ -1,46 +1,46 @@
-AssetClass,Ticker,FactorCode
-Total US Stock Market,VTSMX,AC
-Total World Stock Market,VTWSX,N/A
-US Large Cap,VFINX,LCB
-US Large Cap Value,VEIRX,ACV
-US Large Cap Growth,VIGRX,LCG
-US Mid Cap,VIMSX,MCB
-US Mid Cap Value,VMVAX,MCV
-US Mid Cap Growth,VMGRX,MCG
-US Small Cap,NAESX,SCB
-US Small Cap Value,VSCVX,SCV
-US Small Cap Growth,VSCGX,SCG
-US Micro Cap,IWC,N/A
-Total International Stock Market,VGTSX,N/A
-International ex?US Developed Markets (EAFE),EFA,N/A
-International ex?US Small Cap,VFSVX,N/A
-International ex?US Value,VTRIX,N/A
-European Stocks,IEV,N/A
-International ex?US Small Cap Value,SCZ,N/A
-Pacific Region Stocks,EPP,N/A
-Emerging Markets,VEMVX,N/A
-Total Bond Market,VBMFX,N/A
-Short?Term Treasury Bonds,VFISX,N/A
-Intermediate?Term Treasury Bonds,VFITX,N/A
-Long?Term Treasury Bonds,VUSTX,N/A
-Total US Treasury Bond Market,GOVT,N/A
-TIPS,TIP,N/A
-Short Term Tax Exempt,VWSTX,N/A
-Intermediate Term Tax Exempt,VWITX,N/A
-Long Term Tax Exempt,VWLTX,N/A
-Short Term Investment Grade,VFSTX,N/A
-Corporate Bonds,LQD,N/A
-Long Term Corporate Bonds,VCLT,N/A
-High Yield Corporate Bonds,HYG,N/A
-Total International Bond,VTIBX,N/A
-Total World Bonds,VTWBX,N/A
-Real Estate (REITs),VGSIX,N/A
-Gold,GLD,N/A
-Precious Metals,DBP,N/A
-Commodities,DBC,N/A
-Short Term Corporate Bonds,IGSB,N/A
-Intermediate Term Corporate Bonds,IGLB,N/A
-Long Term Corporate Bonds,IGLT,N/A
-Emerging Market Small Cap Value,EEMS,N/A
-Developed Market Small Cap Value,SCZ,N/A
-Inflation?Protected TIPS,TIP,N/A
+AssetClass,Ticker,FactorCode,FRED,AQR
+Total US Stock Market,VTSMX,AC,N/A,AQR North America
+Total World Stock Market,VTWSX,N/A,N/A,AQR Global
+US Large Cap,VFINX,LCB,N/A,N/A
+US Large Cap Value,VEIRX,ACV,N/A,N/A
+US Large Cap Growth,VIGRX,LCG,N/A,N/A
+US Mid Cap,VIMSX,MCB,N/A,N/A
+US Mid Cap Value,VMVAX,MCV,N/A,N/A
+US Mid Cap Growth,VMGRX,MCG,N/A,N/A
+US Small Cap,NAESX,SCB,N/A,N/A
+US Small Cap Value,VSCVX,SCV,N/A,N/A
+US Small Cap Growth,VSCGX,SCG,N/A,N/A
+US Micro Cap,IWC,N/A,N/A,N/A
+Total International Stock Market,VGTSX,N/A,N/A,N/A
+International ex-US Developed Markets (EAFE),EFA,N/A,N/A,N/A
+International ex-US Small Cap,VFSVX,N/A,N/A,N/A
+International ex-US Value,VTRIX,N/A,N/A,N/A
+European Stocks,IEV,N/A,N/A,AQR Europe
+International ex-US Small Cap Value,SCZ,N/A,N/A,N/A
+Pacific Region Stocks,EPP,N/A,N/A,AQR Pacific
+Emerging Markets,VEMVX,N/A,N/A,N/A
+Total Bond Market,VBMFX,N/A,N/A,N/A
+Short-Term Treasury Bonds,VFISX,N/A,FRED Interest Rate Data (2-year maturity),N/A
+Intermediate-Term Treasury Bonds,VFITX,N/A,FRED Interest Rate Data (5-year maturity),N/A
+Long-Term Treasury Bonds,VUSTX,N/A,FRED Interest Rate Data (30-year maturity),N/A
+Total US Treasury Bond Market,GOVT,N/A,N/A,N/A
+TIPS,TIP,N/A,N/A,N/A
+Short Term Tax Exempt,VWSTX,N/A,N/A,N/A
+Intermediate Term Tax Exempt,VWITX,N/A,N/A,N/A
+Long Term Tax Exempt,VWLTX,N/A,N/A,N/A
+Short Term Investment Grade,VFSTX,N/A,N/A,N/A
+Corporate Bonds,LQD,N/A,N/A,N/A
+Long Term Corporate Bonds,VCLT,N/A,N/A,N/A
+High Yield Corporate Bonds,HYG,N/A,N/A,N/A
+Total International Bond,VTIBX,N/A,N/A,N/A
+Total World Bonds,VTWBX,N/A,N/A,N/A
+Real Estate (REITs),VGSIX,N/A,N/A,N/A
+Gold,GLD,N/A,N/A,N/A
+Precious Metals,DBP,N/A,N/A,N/A
+Commodities,DBC,N/A,N/A,N/A
+Short Term Corporate Bonds,IGSB,N/A,N/A,N/A
+Intermediate Term Corporate Bonds,IGLB,N/A,N/A,N/A
+Long Term Corporate Bonds,IGLT,N/A,N/A,N/A
+Emerging Market Small Cap Value,EEMS,N/A,N/A,N/A
+Developed Market Small Cap Value,SCZ,N/A,N/A,N/A
+Inflation?Protected TIPS,TIP,N/A,N/A,N/A
