@@ -1,4 +1,4 @@
-Asset Class,Ticker,Factor Heading
+AssetClass,Ticker,FactorCode
 Total US Stock Market,VTSMX,AC
 Total World Stock Market,VTWSX,N/A
 US Large Cap,VFINX,LCB
