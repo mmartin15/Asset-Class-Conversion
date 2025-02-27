@@ -1,5 +1,5 @@
 AssetClass,Ticker,FactorCode,FRED,AQR
-Total US Stock Market,VTSMX,N/A,N/A,AQR North America
+Total US Stock Market,VTSMX,N/A,N/A,AQR USA
 Total World Stock Market,VTWSX,N/A,N/A,AQR Global
 US Large Cap,VFINX,LCB,N/A,N/A
 US Large Cap Value,VEIRX,ACV,N/A,N/A
@@ -41,6 +41,6 @@ Commodities,DBC,N/A,N/A,N/A
 Short Term Corporate Bonds,IGSB,N/A,N/A,N/A
 Intermediate Term Corporate Bonds,IGLB,N/A,N/A,N/A
 Long Term Corporate Bonds,IGLT,N/A,N/A,N/A
-Emerging Market Small Cap Value,EEMS,N/A,N/A,N/A
-Developed Market Small Cap Value,SCZ,N/A,N/A,N/A
-Inflation?Protected TIPS,TIP,N/A,N/A,N/A
+Emerging Market Small Cap Value,DEMSX,N/A,N/A,N/A
+Developed Market Small Cap Value,DISVX,N/A,N/A,N/A
+Inflation-Protected TIPS,TIP,N/A,N/A,N/A
