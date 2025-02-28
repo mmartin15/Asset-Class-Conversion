@@ -18,7 +18,7 @@ International ex-US Value,VTRIX,N/A,N/A,N/A
 European Stocks,IEV,N/A,N/A,AQR Europe
 International ex-US Small Cap Value,SCZ,N/A,N/A,N/A
 Pacific Region Stocks,EPP,N/A,N/A,AQR Pacific
-Emerging Markets,VEMVX,N/A,N/A,N/A
+Emerging Markets,VEIEX,N/A,N/A,N/A
 Total Bond Market,VBMFX,N/A,N/A,N/A
 Short-Term Treasury Bonds,VFISX,N/A,FRED Interest Rate Data (2-year maturity),N/A
 Intermediate-Term Treasury Bonds,VFITX,N/A,FRED Interest Rate Data (5-year maturity),N/A
@@ -33,14 +33,14 @@ Corporate Bonds,LQD,N/A,N/A,N/A
 Long Term Corporate Bonds,VCLT,N/A,N/A,N/A
 High Yield Corporate Bonds,HYG,N/A,N/A,N/A
 Total International Bond,VTIBX,N/A,N/A,N/A
-Total World Bonds,VTWBX,N/A,N/A,N/A
+Total World Bonds,BNDW,N/A,N/A,N/A
 Real Estate (REITs),VGSIX,N/A,N/A,N/A
 Gold,GLD,N/A,N/A,N/A
 Precious Metals,DBP,N/A,N/A,N/A
 Commodities,DBC,N/A,N/A,N/A
 Short Term Corporate Bonds,IGSB,N/A,N/A,N/A
 Intermediate Term Corporate Bonds,IGLB,N/A,N/A,N/A
-Long Term Corporate Bonds,IGLT,N/A,N/A,N/A
+Long Term Corporate Bonds,VWESX,N/A,N/A,N/A
 Emerging Market Small Cap Value,DEMSX,N/A,N/A,N/A
 Developed Market Small Cap Value,DISVX,N/A,N/A,N/A
 Inflation-Protected TIPS,TIP,N/A,N/A,N/A
