@@ -11,7 +11,7 @@ US Small Cap,NAESX,SCB,N/A,N/A
 US Small Cap Value,VSCVX,SCV,N/A,N/A
 US Small Cap Growth,VSCGX,SCG,N/A,N/A
 US Micro Cap,IWC,N/A,N/A,N/A
-Total International Stock Market,VGTSX,N/A,N/A,AQR Global Ex-Us
+Total International Stock Market,VGTSX,N/A,N/A,AQR Global Ex USA
 International ex-US Developed Markets (EAFE),EFA,N/A,N/A,N/A
 International ex-US Small Cap,VFSVX,N/A,N/A,N/A
 International ex-US Value,VTRIX,N/A,N/A,N/A
